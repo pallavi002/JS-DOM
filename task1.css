@@ -1,0 +1,49 @@
+.display-5{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 2rem;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-decoration: inherit;
+    text-transform: inherit;
+    
+}
+
+.display-6{
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    font-weight: 500;
+    letter-spacing: .0125em;
+    text-decoration: inherit;
+    text-transform: inherit;
+    
+}
+
+p{
+    font-family: Roboto,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    letter-spacing: .01785714em;
+    text-decoration: inherit;
+    text-transform: inherit;
+}
+
+.btn1{
+    display: none;
+}
+.btn11{
+    display: block;
+}
+
+.displayExt{
+    display : none ;
+}
+.custom{
+    display: none;
+}
