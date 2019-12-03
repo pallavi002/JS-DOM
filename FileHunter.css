@@ -9,7 +9,6 @@
     text-transform: inherit;
     
 }
-
 .display-6{
     font-family: sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -21,7 +20,6 @@
     text-transform: inherit;
     
 }
-
 p{
     font-family: Roboto,sans-serif;
     -moz-osx-font-smoothing: grayscale;
@@ -33,14 +31,12 @@ p{
     text-decoration: inherit;
     text-transform: inherit;
 }
-
 .btn1{
     display: none;
 }
 .btn11{
     display: block;
 }
-
 .displayExt{
     display : none ;
 }
